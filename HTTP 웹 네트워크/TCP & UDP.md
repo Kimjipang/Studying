@@ -41,7 +41,7 @@
 
 > 순서 보장
 
-<img width="1144" alt="스크린샷 2022-10-12 오후 3 37 01" src="https://user-images.githubusercontent.com/91196025/195848772-55ddb17c-27d9-478c-b8e1-b8f0d2e5a538.png">
+<img width="400" alt="스크린샷 2022-10-12 오후 3 37 01" src="https://user-images.githubusercontent.com/91196025/195848772-55ddb17c-27d9-478c-b8e1-b8f0d2e5a538.png">
 
 
 - 패킷 1, 2, 3 순으로 보낸다고 가정. 
