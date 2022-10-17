@@ -34,11 +34,15 @@
 
 
 
+
+
 > HTTP 초기 - 과거
 
 <img width="400" alt="스크린샷 2022-10-17 오후 10 18 34" src="https://user-images.githubusercontent.com/91196025/196191201-37bb93b1-3f08-46c5-ace6-c0b35d719ff8.png">
 
 - 하나의 요청을 할 때마다 3-way handshake를 통해 연결하고 응답 받으면 연결을 끊었음. 
+
+
 
 
 
