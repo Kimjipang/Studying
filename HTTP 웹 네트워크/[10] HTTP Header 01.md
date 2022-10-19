@@ -71,7 +71,7 @@
 
   - image/png
 
-    <img width="600" alt="스크린샷 2022-10-19 오후 6 31 32" src="https://user-images.githubusercontent.com/91196025/196701787-e3358db2-c29e-48da-ab1c-40c109700e35.png">
+    <img width="500" alt="스크린샷 2022-10-19 오후 6 31 32" src="https://user-images.githubusercontent.com/91196025/196701787-e3358db2-c29e-48da-ab1c-40c109700e35.png">
 
 > Content-Encoding
 
@@ -91,7 +91,7 @@
 
   - identity
 
-    <img width="600" alt="스크린샷 2022-10-19 오후 6 34 25" src="https://user-images.githubusercontent.com/91196025/196701853-312f80a1-d116-448b-9812-15043a3fe2e2.png">
+    <img width="500" alt="스크린샷 2022-10-19 오후 6 34 25" src="https://user-images.githubusercontent.com/91196025/196701853-312f80a1-d116-448b-9812-15043a3fe2e2.png">
 
     
 
@@ -173,16 +173,16 @@
 - Set-Cookie : 서버에서 클라이언트로 쿠키 전달(응답)
 - Cookie : 클라이언트가 서버에서 받은 쿠키를 저장하고, HTTP 요청시 서버로 전달
 
-<img width="600" alt="스크린샷 2022-10-19 오후 9 57 52" src="https://user-images.githubusercontent.com/91196025/196701910-448e95f6-9073-466a-9d9a-b37357693650.png">
+<img width="500" alt="스크린샷 2022-10-19 오후 9 57 52" src="https://user-images.githubusercontent.com/91196025/196701910-448e95f6-9073-466a-9d9a-b37357693650.png">
 
 - 클라이언트에서 서버로 요청을 하면 서버가 클라이언트로부터 받은 정보를 Set-Cookie에 담아 클라이언트에게 다시 전달함.
 - 클라이언트에는 쿠키 저장소가 있다.
 
-<img width="600" alt="스크린샷 2022-10-19 오후 9 59 19" src="https://user-images.githubusercontent.com/91196025/196701950-804c0284-7493-46ed-8ea4-aedb12239d15.png">
+<img width="500" alt="스크린샷 2022-10-19 오후 9 59 19" src="https://user-images.githubusercontent.com/91196025/196701950-804c0284-7493-46ed-8ea4-aedb12239d15.png">
 
 - 요청시 무조건 쿠키 저장소에 있는 쿠키를 꺼내 HTTP 헤더에 포함시켜 서버에 보냄.
 
-<img width="600" alt="스크린샷 2022-10-19 오후 10 00 48" src="https://user-images.githubusercontent.com/91196025/196701973-7631efe0-a8ca-4f73-b082-b0adbb209326.png">
+<img width="500" alt="스크린샷 2022-10-19 오후 10 00 48" src="https://user-images.githubusercontent.com/91196025/196701973-7631efe0-a8ca-4f73-b082-b0adbb209326.png">
 
 - 어떤 요청이라도 쿠키 정보를 자동으로 포함시킴.
   - 네트워크 트래픽 추가 유발
