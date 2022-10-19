@@ -93,7 +93,7 @@
 - 새로고침해도 결과 화면 GET으로 조회
   - 중복 주문 대신 결과 화면만 GET으로 재요청
 
-<img width="400" alt="스크린샷 2022-10-19 오후 1 02 06" src="https://user-images.githubusercontent.com/91196025/196597920-8832d1e6-36e1-43c6-8fb9-4d445ab901b7.png">
+<img width="800" alt="스크린샷 2022-10-19 오후 1 02 06" src="https://user-images.githubusercontent.com/91196025/196597920-8832d1e6-36e1-43c6-8fb9-4d445ab901b7.png">
 
 - 사용성 면에서 서버에 오류가 훨씬 줄어들음.(PRG 중요!)
 
